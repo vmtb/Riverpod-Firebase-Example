@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "746646617510",
+    "project_id": "mva-dev-5943d",
+    "storage_bucket": "mva-dev-5943d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746646617510:android:0a0c9512b4aa5c3d622367",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_firebase_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746646617510-aa971bijob3108i36nv5e0gcgive13ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riverpod_firebase_example",
+            "certificate_hash": "8c84b50db63bb1bfbe435e82f17346bdbc320a88"
+          }
+        },
+        {
+          "client_id": "746646617510-6fk1sadfu8msuieluj0luqksdep15a9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN64sHQdE2iLf6RMRSB5xv7PRD0W50fEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746646617510-6fk1sadfu8msuieluj0luqksdep15a9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746646617510:android:5fda3c3affeb8457622367",
+        "android_client_info": {
+          "package_name": "com.pirc.mva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746646617510-6fk1sadfu8msuieluj0luqksdep15a9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN64sHQdE2iLf6RMRSB5xv7PRD0W50fEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746646617510-6fk1sadfu8msuieluj0luqksdep15a9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
